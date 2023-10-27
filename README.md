@@ -38,7 +38,7 @@ Best model achieved an accuracy of [accuracy score] and F1-score of [F1-score].
 
 ## How to Use
 
-1. Clone the repository.(git clone https://github.com/yourusername/heart-attack-risk-prediction.git)
+1. Clone the repository. ( git clone https://github.com/sharadpatell/Heart_attack_prediction)
 2. Install dependencies.
 3. Run the provided Jupyter Notebook or script for heart attack risk prediction.
 
