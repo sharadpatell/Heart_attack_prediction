@@ -34,7 +34,7 @@ Evaluated models with metrics like accuracy, precision, recall, and F1-score. Ca
 
 ## Conclusion
 
-Best model achieved an accuracy of [accuracy score] and F1-score of [F1-score].
+Best model achieved an accuracy of 91% and F1-score of 92% using XGBoost
 
 ## How to Use
 
